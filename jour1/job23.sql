@@ -1,0 +1,1 @@
+SELECT * FROM etudiants ORDER BY date_naissance DESC LIMIT 1;
